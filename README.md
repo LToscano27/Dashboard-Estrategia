@@ -7,9 +7,9 @@ Planilla de Google Sheets que se actualiza sola durante la rueda y muestra, para
 - **LECAPs / BONCAPs**: precios, TNA, TEM y la curva de tasa fija (CI y 24hs), con ajuste logarítmico.
 - **Carry trade**: retorno en USD de cada letra según el tipo de cambio al vencimiento y dólar breakeven.
 
-👉 **[Ver la planilla en vivo](https://docs.google.com/spreadsheets/d/15XMFrllATr5c0XjYJAk8p-aHXlKMM7F09t_hEUgt_VE/edit?usp=sharing)** (solo lectura)
+👉 **[Ver la planilla en vivo](PEGAR_ACA_EL_LINK_DE_LA_PLANILLA)** (solo lectura)
 
-![Curva de tasa fija](curva.png)
+![Carry trade: retorno en USD por LECAP según el dólar al vencimiento](carry.png)
 
 ## Cómo funciona
 
